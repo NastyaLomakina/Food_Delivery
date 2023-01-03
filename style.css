@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home {
+    width: 1511px;
+    height: 886px;
+    background-color: #fcfbf7;
+    padding-left: 87px;
+    padding-right: 65px;
+    padding-top: 39px;
+}
+.logo_name {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 45px;
+    color:#000000;
+    display: inline;
+}
+.logo_img{
+    width: 32px;
+    height: 32px;
+}
+ul {
+    display: inline;
+    margin-left: 352px;
+}
+li {
+    display: inline;
+    font-size: 22px;
+    line-height: 21px;
+    color:#000000;
+    font-weight: 400px;
+    margin-right: 56px;
+}
+input{
+    margin-left: 104px;
+}
+.basket{
+    width: 750px;
+    height: 712px;
+    position: absolute;
+    left: 650px;
+    top: 100px;
+}
+.wrapper{
+    width: 500px;
+    height: 120px;
+}
+h1{
+    color: #2F2F2F;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 49px;
+    display: inline-block;
+    width: 211px;
+    margin-left: 18px;
+}
+h2{
+    color:#ff7e00;
+    font-weight: 700;
+    font-size: 125px;
+    line-height: 119px;
+    display: inline;
+}
+.header_descr{
+    color: #909090;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 31px;
+    display: inline-block;
+    width: 568px;
+}
+.btn_order{
+    background-color:#2f2f2f ; 
+    width:188px;
+    height:70px;
+    border: 1px solid #2f2f2f;
+    border-radius: 32px;
+    color:#f4ece1;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 19px;
+    cursor: pointer; 
+    margin-top: 44px;
+}
+.btn_wvideo{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 19px;
+    color:#2f2f2f;
+    background: none;
+    border:none;
+    cursor: pointer;
+    margin-top: 44px;
+    margin-left: 96px;
+}
+.wrapper{
+    display: block;
+    width: 568px;
+    margin-top: 24px;
+}
+.company_descr{
+    display: inline-block;
+    margin-top: 152px;   
+}
